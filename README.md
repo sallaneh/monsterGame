@@ -1,3 +1,4 @@
+Video of the game: https://drive.google.com/open?id=0B4qGrxPfBmv7MF9PT2tjeWxwaXc   
 A simple console game in scala: A player move in a 2d board and fight against monsters.
 
 Basically, you create a character and move around the board.   
